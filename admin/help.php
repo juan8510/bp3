@@ -88,7 +88,7 @@
 // 假设重定向后地址是：https://bp3.52dixiaowo.com/install_fast.php
 
 // 那么携带display参数(需要urlencode)时应该这样授权：
-
+U2FsdGVkX1/cWroP39DlAJpWQ3PnaMOBo4UwjcHD6EkW2Xtqg0N1tC1fOcb8HANC
 https://bp3.52dixiaowo.com/grant/?display=https%3A%2F%2Fbp3.52dixiaowo.com%2Finstall_fast.php</code></pre>
     <h3>开发者获取token接口</h3>
     <p>bp3当前使用的access_token可以被其他程序获取，为了安全起见仅本机程序(同IP地址)可以获取，地址如下：</p>
